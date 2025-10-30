@@ -5,18 +5,18 @@ Welcome to the most comprehensive, project-based roadmap for becoming a world-cl
 ---
 
 ## 📜 Table of Contents
-*   [**Phase 0: The Foundation**](#phase-0-the-foundation---environment--tools)
-*   [**Phase 1: Programming & Data Fundamentals**](#phase-1-programming--data-fundamentals)
-*   [**Phase 2: The Mathematical Backbone**](#phase-2-the-mathematical-backbone)
-*   [**Phase 3: Classical Machine Learning**](#phase-3-classical-machine-learning)
-*   [**Phase 4: Deep Learning & Modern Architectures**](#phase-4-deep-learning--modern-architectures)
-*   [**Phase 5: AI Engineering & Deployment**](#phase-5-ai-engineering--model-deployment)
-*   [**Phase 6: MLOps & The Production Lifecycle**](#phase-6-mlops--the-production-lifecycle)
-*   [**Phase 7: Big Data Technologies**](#phase-7-big-data-technologies)
-*   [**Phase 8: Advanced Specializations**](#phase-8-advanced-specializations-choose-your-path)
-*   [**Phase 9: Research & Staying Current**](#phase-9-research--staying-current)
-*   [**Building Your Professional Portfolio**](#building-your-professional-portfolio)
-*   [**Arabic Version**](#arabic-version)
+*   [**Phase 0: The Foundation**](#-phase-0-the-foundation---environment--tools)
+*   [**Phase 1: Programming & Data Fundamentals**](#-phase-1-programming--data-fundamentals)
+*   [**Phase 2: The Mathematical Backbone**](#-phase-2-the-mathematical-backbone)
+*   [**Phase 3: Classical Machine Learning**](#-phase-3-classical-machine-learning)
+*   [**Phase 4: Deep Learning & Modern Architectures**](#-phase-4-deep-learning--modern-architectures)
+*   [**Phase 5: AI Engineering & Deployment**](#-phase-5-ai-engineering--model-deployment)
+*   [**Phase 6: MLOps & The Production Lifecycle**](#-phase-6-mlops--the-production-lifecycle)
+*   [**Phase 7: Big Data Technologies**](#-phase-7-big-data-technologies)
+*   [**Phase 8: Advanced Specializations**](#-phase-8-advanced-specializations-choose-your-path)
+*   [**Phase 9: Research & Staying Current**](#-phase-9-research--staying-current)
+*   [**Building Your Professional Portfolio**](#-building-your-professional-portfolio)
+*   [**Arabic Version**](#-arabic-version)
 
 ---
 
