@@ -147,7 +147,7 @@ Welcome to the most comprehensive, project-based roadmap for becoming a world-cl
 | **Experiment Tracking**| `MLflow`                                        | [MLflow Docs](https://mlflow.org/docs/latest/index.html)                                                                                     |
 | **Data/Model Versioning**| `DVC` or `Git LFS`                              | [DVC Get Started](https://dvc.org/doc/start)                                                                                                 |
 | **Pipeline Orchestration**| `Airflow`                                     | [Airflow Docs](https://airflow.apache.org/docs/)                                                                                             |
-| **CI/CD Automation**   | `GitHub Actions`                                | [GitHub Actions for ML](https://docs.github.com/en/actions/deployment/deploying-machine-learning/about-mlops-with-github-actions)             |
+| **CI/CD Automation**   | `GitHub Actions`                                | [GitHub Actions for ML](https://docs.github.com/en/actions)             |
 | **Monitoring**         | `Prometheus`, `Grafana`                         | [Grafana Fundamentals](https://grafana.com/tutorials/grafana-fundamentals/)                                                                  |
 
 **🎯 Project: A Fully Reproducible CI/CD Pipeline**
@@ -382,7 +382,7 @@ Your project's `README.md` should include:
 | **تتبع التجارب**        | `MLflow`                                        | [MLflow Docs](https://mlflow.org/docs/latest/index.html)                                                                                     |
 | **إدارة إصدارات البيانات/النماذج**| `DVC` أو `Git LFS`                              | [DVC Get Started](https://dvc.org/doc/start)                                                                                                 |
 | **تنسيق خطوط الأنابيب** | `Airflow`                                       | [Airflow Docs](https://airflow.apache.org/docs/)                                                                                             |
-| **أتمتة CI/CD**        | `GitHub Actions`                                | [GitHub Actions for ML](https://docs.github.com/en/actions/deployment/deploying-machine-learning/about-mlops-with-github-actions)             |
+| **أتمتة CI/CD**        | `GitHub Actions`                                | [GitHub Actions for ML](https://docs.github.com/en/actions)             |
 | **المراقبة**           | `Prometheus`, `Grafana`                         | [Grafana Fundamentals](https://grafana.com/tutorials/grafana-fundamentals/)                                                                  |
 
 **🎯 مشروع: خط أنابيب CI/CD قابل للتكرار بالكامل**
